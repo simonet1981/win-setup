@@ -1,4 +1,3 @@
-#CULOOOOOOOO
 # Copy and paste in IE
 # http://boxstarter.org/package/url?https://https://raw.githubusercontent.com/simonet1981/win-setup/master/setup.ps1
 
