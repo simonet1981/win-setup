@@ -16,7 +16,8 @@ cinst conemu
 cinst git --params="/GitAndUnixToolsOnPath"
 cinst git-credential-winstore
 cinst poshgit
-cinst tortoisegit
+#cinst tortoisegit
+cinst smartgit
 cinst winmerge
 
 cinst nuget.commandline
