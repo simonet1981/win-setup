@@ -48,6 +48,7 @@ choco install baretail
 choco install paint.net 
 choco install skype 
 choco install slack
+choco install foxitreader
 # IIS Server
 #cinst webpi
 #cinst -source windowsfeatures IIS-WebServerRole IIS-WebServer
