@@ -32,7 +32,7 @@ cinst linqpad
 #cinst sublimetext3
 #cinst install sublimetext3.packagecontrol
 
-choco install fiddler4
+#choco install fiddler4
 choco install 7zip
 #cinst autohotkey
 #choco install nodejs
@@ -46,7 +46,7 @@ choco install openvpn
 choco install postman
 choco install soapui
 choco install resharper-platform
-choco install baretail
+#choco install baretail
  
 choco install paint.net 
 choco install skype 
