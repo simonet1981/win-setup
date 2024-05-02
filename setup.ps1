@@ -17,11 +17,14 @@ cinst conemu
 #cinst powershell
 #cinst GitHub
 cinst git --params="/GitAndUnixToolsOnPath"
-cinst git-credential-winstore
-cinst poshgit
+#cinst git-credential-winstore
+#cinst poshgit
 #cinst tortoisegit
-cinst smartgit
-cinst winmerge
+#cinst smartgit
+#cinst winmerge
+choco install git-fork
+choco install another-redis-desktop-manager
+choco install docker-desktop
 
 cinst nuget.commandline
 cinst nugetpackageexplorer
@@ -29,6 +32,7 @@ cinst nugetpackageexplorer
 #cinst cshell
 #cinst scriptcs
 cinst linqpad
+choco install linqpad5.install
 #cinst sublimetext3
 #cinst install sublimetext3.packagecontrol
 
@@ -38,20 +42,22 @@ choco install 7zip
 #choco install nodejs
 
 # Productivity
+choco install pycharm-community
 choco install googlechrome
 choco install notepadplusplus
 choco install mremoteng
-choco install redis-desktop-manager 
+#choco install redis-desktop-manager 
 choco install openvpn
 choco install postman
 choco install soapui
-choco install resharper-platform
+#choco install resharper-platform
 #choco install baretail
+choco install dbeaver
  
 choco install paint.net 
-choco install skype 
-choco install slack
-choco install foxitreader
+#choco install skype 
+#choco install slack
+#choco install foxitreader
 # IIS Server
 #cinst webpi
 #cinst -source windowsfeatures IIS-WebServerRole IIS-WebServer
