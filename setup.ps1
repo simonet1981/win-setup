@@ -42,6 +42,7 @@ choco install 7zip
 #choco install nodejs
 
 # Productivity
+choco install python
 choco install pycharm-community
 choco install googlechrome
 choco install notepadplusplus
